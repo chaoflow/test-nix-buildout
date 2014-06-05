@@ -1,0 +1,9 @@
+Goal
+----
+
+Provide all eggs to buildout via nix, except development eggs.
+
+Setup
+-----
+
+Create nixpkgs link in this dir.
